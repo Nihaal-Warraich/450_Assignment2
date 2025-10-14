@@ -24,7 +24,7 @@ class About extends Component {
             </p>
 
             <p>
-              I am passionate about exploring the realm of data science and machine learning and have worked with numerous real world problems yada yada . 
+              I am passionate about exploring the realm of data science and machine learning and have worked with several real world problems, leveraging machine learning to create solutions. 
             </p>
 
             <h3 className="skills-title">Skills &amp; Technologies</h3>

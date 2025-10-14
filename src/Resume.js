@@ -17,9 +17,9 @@ function Resume() {
       company: "AT&T",
       period: "Summer 2025",
       responsibilities: [
-        "Developed responsive web applications using React and CSS",
-        "Collaborated with design team to implement user interfaces",
-        "Optimized application performance and accessibility"
+        "Applied context engineering to improve TXT-to-SQL LLM performance.",
+        "Present results to senior leaderhsip, demonstrating the effectiveness of context engineering",
+        "Developed SQL filter in Google BigQuery to extract and refine critical datasets."
       ]
     },
     {
@@ -27,9 +27,8 @@ function Resume() {
       company: "EOS Energy Enterprises",
       period: "Summer 2024",
       responsibilities: [
-        "Assisted students with programming assignments and projects",
-        "Conducted lab sessions for introductory programming courses",
-        "Graded assignments and provided constructive feedback"
+        "Designed and implemented machine learning models (DBSCAN, fuzzy clustering, Decision Trees) to analyze experimental data",
+        "Designed a robust down sampling algorithm for PostgreSQL data streams"
       ]
     }
   ];
